@@ -48,12 +48,12 @@ function setResultado(msg, isValid) {
   resultado.innerHTML = '';
 
   const p = criaP();
- 
 
-  if(isValid) {
+
+  if (isValid) {
     p.classList.add('paragrafo-resultado');
   }
-  else{
+  else {
     p.classList.add('bad');
   }
 

@@ -14,6 +14,6 @@ const pessoa = {
 //const { nome = '', sobrenome, idade , endereco: { rua: r = '12345', numero}, endereco } = pessoa;
 //console.log(nome, sobrenome, idade, r, numero, endereco);
 
-const { nome, sobrenome,  ...resto} = pessoa;
+const { nome, sobrenome, ...resto } = pessoa;
 
 console.log(nome, sobrenome, resto);
