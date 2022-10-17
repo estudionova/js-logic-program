@@ -1,3 +1,14 @@
+
+
+console.log(sobrenome);
+
+//var sobrenome = 'Lima';
+let sobrenome = 'Lima';
+
+
+
+
+/*
 const verdadeira = true;
 
 
@@ -21,8 +32,8 @@ falaOi();
 
 //console.log(sobrenome);
 
+ - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - 
 
-/*
 // com let o nome da variavel não pode ser usado varias vezes
 // let tem escopo de {.... bloco }
 // var só tem escopo de função
